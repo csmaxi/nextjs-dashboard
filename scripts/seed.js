@@ -166,3 +166,4 @@ async function seedRevenue() {
   await seedInvoices();
   await seedRevenue();
 })();
+
